@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "amount": 5.99,
+    "shopName": "Tasty Treats",
+    "foodType": "Burgers",
+    "foodName": "Classic Cheeseburger",
+    "image": "2.jpg"
+  },
+  {
+    "id": 2,
+    "amount": 3.49,
+    "shopName": "Spice Delight",
+    "foodType": "Tacos",
+    "foodName": "Spicy Chicken Tacos",
+    "image": "3.jpeg"
+  },
+  {
+    "id": 3,
+    "amount": 8.75,
+    "shopName": "Pizza Palace",
+    "foodType": "Pizza",
+    "foodName": "Margherita Pizza",
+    "image": "1.jpeg"
+  },
+  {
+    "id": 4,
+    "amount": 6.25,
+    "shopName": "Sushi Haven",
+    "foodType": "Sushi",
+    "foodName": "California Roll",
+    "image": "4.png"
+  },
+  {
+    "id": 5,
+    "amount": 2.99,
+    "shopName": "Chai Corner",
+    "foodType": "Beverages",
+    "foodName": "Masala Chai",
+    "image": "5.png"
+  },
+  {
+    "id": 6,
+    "amount": 4.49,
+    "shopName": "Noodle Express",
+    "foodType": "Noodles",
+    "foodName": "Pad Thai",
+    "image": "6.jpeg"
+  },
+  {
+    "id": 7,
+    "amount": 9.99,
+    "shopName": "Bakery Bliss",
+    "foodType": "Pastries",
+    "foodName": "Chocolate Croissant",
+    "image": "7.jpeg"
+  },
+  {
+    "id": 8,
+    "amount": 7.49,
+    "shopName": "Ice Cream Paradise",
+    "foodType": "Desserts",
+    "foodName": "Double Chocolate ",
+    "image": "8.jpeg"
+  },
+  {
+    "id": 9,
+    "amount": 5.25,
+    "shopName": "Falafel Fusion",
+    "foodType": "Wraps",
+    "foodName": "Falafel Wrap",
+    "image": "9.jpeg"
+  },
+  {
+    "id": 10,
+    "amount": 3.99,
+    "shopName": "Coffee Haven",
+    "foodType": "Coffee",
+    "foodName": "Caramel Macchiato",
+    "image": "10.jpeg"
+  },
+  {
+    "id": 11,
+    "amount": 6.99,
+    "shopName": "Burrito Bonanza",
+    "foodType": "Burritos",
+    "foodName": "Veggie Burrito",
+    "image": "11.jpeg"
+  },
+  {
+    "id": 12,
+    "amount": 4.75,
+    "shopName": "Fruit Fiesta",
+    "foodType": "Smoothies",
+    "foodName": "Mango Tango Smoothie",
+    "image": "12.jpeg"
+  }
+]
